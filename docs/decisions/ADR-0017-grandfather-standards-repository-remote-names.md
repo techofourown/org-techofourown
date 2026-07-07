@@ -13,17 +13,21 @@ repository names predate that convention or were created outside it:
 - `protean_organization`
 - `protean_companions`
 - `tooo-std-register`
+- `conformance-artifacts`
 
 The first three names use underscores and lack an approved typed prefix.
 The register name is lowercase and hyphen-separated but uses `tooo-` as
 the leading token rather than an approved repository type prefix.
+`conformance-artifacts` is lowercase and hyphen-separated but lacks the
+`std-` or `tool-` typed prefix expected for standards-family artifact
+repositories.
 Renaming these repositories is externally stateful because it affects
 remote URLs, automation, clones, CI configuration, documentation links,
 and cross-repository references.
 
 ## Decision
 
-The four current standards remotes listed above are grandfathered as
+The five current standards remotes listed above are grandfathered as
 legacy exceptions to ADR-0002 and ADR-0003. They may continue to be used
 as authoritative remotes until a rename or mirror migration is scheduled
 and completed.
@@ -37,6 +41,7 @@ consumption, the preferred target shape is:
 - `std-protean-organization`
 - `std-protean-companions`
 - `std-tooo-register`
+- `std-conformance-artifacts`
 
 Any public conformance or repository-hygiene review may cite this ADR as
 the explicit exception record for the current remote names, but shall not
