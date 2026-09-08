@@ -1,4 +1,4 @@
-# The Eight Signs & The Ancestrels — A Shared Ethos for Humane Technology
+# The Eight Signs & The Ancestrals — A Shared Ethos for Humane Technology
 
 **Origin:** Tech of Our Own (Johnny)  
 **Status:** Draft (v0.2)  
@@ -18,7 +18,7 @@
 This document offers a shared ethical language for living in the modern technological world: the **Eight Signs**—eight practical
 ways to orient our choices toward human dignity, agency, privacy, and long-term freedom. They guide the actions, behaviors, and values we espouse at Tech of Our Own, and embody the practices we invite our users to integrate into their lives. Each Sign represents an essential action and purpose, grounded in sovereignty, human dignity, and the reclamation, defence, and promotion of the self.
 
-Also included are the **Ancestrels**— archetypal figures that embody each Sign, and with whom we may relate and identify. They’re a memory tool: a way to build intuition for the behaviours that can keep us safe and well. 
+Also included are the **Ancestrals**— archetypal figures that embody each Sign, and with whom we may relate and identify. They’re a memory tool: a way to build intuition for the behaviours that can keep us safe and well. 
 
 ---
 
@@ -106,13 +106,13 @@ Each Sign is an actionable practice we can adopt—individually, in personal rel
 
 ---
 
-## The Ancestrels: Embodiments of the Signs
+## The Ancestrals: Embodiments of the Signs
 
-The **Ancestrels** are archetypal roles that help people remember and practice the Signs. They are
+The **Ancestrals** are archetypal roles that help people remember and practice the Signs. They are
 not official positions and do not require affiliation with any organization. You can rename them,
 reinterpret them, or translate them—keep what is useful.
 
-Each Ancestrel names a way of holding responsibility in the work of humane technology.
+Each Ancestral names a way of holding responsibility in the work of humane technology.
 
 ### 1) The Drummer  
 **Sign(s) Embodied:** Drum  
@@ -182,7 +182,7 @@ and helps communities turn feedback into repair, accountability, and better choi
 ## Conclusion
 
 The **Eight Signs** are a set of practices for humane technology—usable by individuals, teams,
-communities, and organizations. The **Eight Ancestrels** are optional archetypes that help keep those
+communities, and organizations. The **Eight Ancestrals** are optional archetypes that help keep those
 practices vivid and memorable.
 
 These Signs are offered as a **commons gift**. You may copy, translate, annotate, remix, and teach

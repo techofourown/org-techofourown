@@ -73,7 +73,7 @@ adapt, including (non-exhaustive):
 - governance and philosophy documents
 - policies and standards meant to be read and referenced publicly
 - ADRs, RFC templates, and organizational documentation
-- ethos materials (including the Eight Signs / Ancestrels)
+- ethos materials (including the Eight Signs / Ancestrals)
 - educational and community materials (workshops, teaching series, guides)
 - podcast-related collateral we publish (e.g., transcripts, show notes), when explicitly marked as
   CC BY
